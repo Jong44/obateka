@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nama": "Paracetamol",
+        "waktu_minum": "3x sehari",
+        "aturan_minum": "Setelah makan"
+
+    },
+    {
+        "id": 2,
+        "nama": "Amoxilin",
+        "waktu_minum": "2x sehari",
+        "aturan_minum": "Sebelum makan"
+    },
+    {
+        "id": 3,
+        "nama": "Cetirizine",
+        "waktu_minum": "1x sehari",
+        "aturan_minum": "Setelah makan"
+    },
+    {
+        "id": 4,
+        "nama": "Dexamethasone",
+        "waktu_minum": "1x sehari",
+        "aturan_minum": "Sebelum makan"
+    },
+    {
+        "id": 5,
+        "nama": "Ranitidine",
+        "waktu_minum": "2x sehari",
+        "aturan_minum": "Setelah makan"
+    }
+]

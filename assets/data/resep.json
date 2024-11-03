@@ -1,0 +1,112 @@
+[
+    {
+        "id": "001",
+        "nama_rumah_sakit": "RS. Jantung Harapan",
+        "tanggal": "2024-10-01",
+        "status": "pending",
+        "obat": [
+            {
+                "id": "001",
+                "nama_obat": "Paracetamol",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            },
+            {
+                "id": "002",
+                "nama_obat": "Amoxilin",
+                "aturan_minum": "2x1 Sehari",
+                "aturan_pakai": "Sebelum makan"
+            },
+            {
+                "id": "003",
+                "nama_obat": "Promag",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "nama_rumah_sakit": "RS. Jantung Harapan",
+        "tanggal": "2024-10-01",
+        "status": "pending",
+        "obat": [
+            {
+                "id": "001",
+                "nama_obat": "Paracetamol",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            },
+            {
+                "id": "002",
+                "nama_obat": "Amoxilin",
+                "aturan_minum": "2x1 Sehari",
+                "aturan_pakai": "Sebelum makan"
+
+            },
+            {
+                "id": "003",
+                "nama_obat": "Promag",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "nama_obat": "Vitamin C",
+        "nama_rumah_sakit": "RS. Jantung Harapan",
+        "tanggal": "2024-09-01",
+        "status": "pending",
+        "obat": [
+            {
+                "id": "001",
+                "nama_obat": "Paracetamol",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+
+            },
+            {
+                "id": "002",
+                "nama_obat": "Amoxilin",
+                "aturan_minum": "2x1 Sehari",
+                "aturan_pakai": "Sebelum makan"
+            },
+            {
+                "id": "003",
+                "nama_obat": "Promag",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "nama_obat": "Vitamin D",
+        "nama_rumah_sakit": "RS. Jantung Harapan",
+        "tanggal": "2024-09-01",
+        "status": "pending",
+        "obat": [
+            {
+                "id": "001",
+                "nama_obat": "Paracetamol",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+            },
+            {
+                "id": "002",
+                "nama_obat": "Amoxilin",
+                "aturan_minum": "2x1 Sehari",
+                "aturan_pakai": "Sebelum makan"
+            },
+            {
+                "id": "003",
+                "nama_obat": "Promag",
+                "aturan_minum": "3x1 Sehari",
+                "aturan_pakai": "Setelah makan"
+                
+            }
+        ]
+    }
+
+]
